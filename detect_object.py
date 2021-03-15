@@ -3,10 +3,10 @@
 """
 
 import os
-import time
+#import time
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 
 def detect_contour(file, srcmin, srcmax, areamin, areamax):
